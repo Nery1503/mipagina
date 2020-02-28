@@ -1,0 +1,260 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main-cointainer{
+	background-image: url(../IMG/Konosuba.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	border-radius: 50px;
+}
+.titulo {
+	width: 100%;
+	height: 85px;
+	background-color: rgba(31, 31, 31, 0.45);
+	border-radius: 20px;
+	color: #20A5D0;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+}
+.label-container{
+	margin-left: 100px;
+	width: 180px;
+	padding: 1rem;
+	border-radius: 15px;
+	background-color: rgba(73, 232, 60, 0.5);
+}
+.label{
+	width: 90%;
+	height: 300px;
+	background-image: url(../IMG/Kazuma.jpg);
+	border-radius: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.label-container11{
+	margin-left: -100px;
+	width: 200%;
+	height: 650px;
+	box-sizing: border-box;
+	font: oblique bold 120% cursive;
+}
+.label11{
+	width: 38.5%;
+	height: 300px;
+	position: relative;
+	border-radius: 15px;
+	background-color: rgba(245, 250, 251, 0.45);
+	display: inline-block;
+	vertical-align: -50px;
+
+}
+.label-container1{
+	margin-left: 100px;
+	width: 45%;
+	padding: 1rem;
+	background-color: rgba(250, 240, 27, 0.5);
+	border-radius: 15px;
+	box-sizing: border-box;
+}
+.label1{
+	width: 73%;
+	height: 297px;
+	background-image: url(../IMG/Darkness.png);
+	background-repeat: no-repeat;
+	border-radius: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.label-container4{
+	margin-left: -100px;
+	width: 150%;
+	padding: 1rem;
+	box-sizing: border-box;
+	vertical-align: -40px;
+	font: oblique bold 120% cursive;
+
+}
+.label4{
+	width: 38.5%;
+	height: 300px;
+	border-radius: 15px;
+	background-color: rgba(245, 250, 251, 0.45);
+	display: inline-block;
+	vertical-align: middle;
+}
+.label-container2{
+	margin-left: 100px;
+	width: 45%;
+	padding: 1rem;
+	background-color: rgba(248, 41, 13, 0.5);
+	border-radius: 15px;
+	box-sizing: border-box;
+}
+.label2{
+	width: 73%;
+	height: 300px;
+	background-image: url(../IMG/Megumin.jpg);
+	background-repeat: no-repeat;
+	border-radius: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.label-container5{
+	margin-left: -100px;
+	width: 150%;
+	padding: 1rem;
+	box-sizing: border-box;
+	font: oblique bold 120% cursive;
+}
+.label5{
+	width: 38.5%;
+	height: 300px;
+	border-radius: 15px;
+	background-color: rgba(245, 250, 251, 0.45);
+	display: inline-block;
+	vertical-align: middle;
+}
+.label-container3{
+	margin-left: 100px;
+	width: 45%;
+	padding: 1rem;
+	background-color: rgba(27, 217, 243, 0.5);
+	border-radius: 15px;
+	box-sizing: border-box;
+}
+.label3{
+	width: 73%;
+	height: 280px;
+	background-image: url(../IMG/Aqua.png);
+	background-repeat: no-repeat;
+	border-radius: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.label-container6{
+	margin-left: -100px;
+	width: 150%;
+	padding: 1rem;
+	box-sizing: border-box;
+	font: oblique bold 120% cursive;
+}
+.label6{
+	width: 38.5%;
+	height: 300px;
+	border-radius: 15px;
+	background-color: rgba(245, 250, 251, 0.45);
+	display: inline-block;
+	vertical-align: middle;
+}
+div#menu{
+	position: absolute;
+	border-radius: 20px;
+	width: 100%;
+	height: 11%;
+	background-color: rgb(244, 134, 24, 0.9);
+}
+div.contenedor{
+	width: 500px;
+	height:500px;
+	margin-top: 10px; 
+}
+div.logo{
+	margin-top: -10px;
+	background-position: center;
+	border-radius: 25px;
+	width: 50%;
+	height: 85px;
+	background-image:url(../IMG/inicio1.jpg);
+	image-rendering: url(file:///F:/4to%20Semestre/1er%20Parcial/Jimmy/osw/Konosuba/index.html);
+}
+div.inicio{
+	margin-top: -10%;
+	margin-left: 150%;
+	background-position: center;
+	width: 25%;
+	height: 85px;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	font: oblique bold 120% cursive;
+  	font-family: fantasy;
+  	color:pink;
+}
+div.Creador{
+	margin-top: -17%;
+	margin-left: 170%;
+	background-position: center;
+	width: 25%;
+	height: 85px;
+  	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	font: oblique bold 120% cursive;
+  	font-family: fantasy;
+  	color: pink;
+}
+div.Mas{
+	margin-top: -17%;
+	margin-left: 190%;
+	background-position: center;
+	width: 25%;
+	height: 85px;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	font: oblique bold 120% cursive;
+  	font-family: fantasy;
+  	color: pink;
+}
+div.Servicios{
+	margin-top: -17%;
+	margin-left: 220%;
+	background-position: center;
+	width: 25%;
+	height: 85px;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	font: oblique bold 120% cursive;
+  	font-family: fantasy;
+  	color: pink;
+}
+div.Exitos{
+	margin-top: -17%;
+	margin-left: 250%;
+	background-position: center;
+	width: 25%;
+	height: 85px;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	font: oblique bold 120% cursive;
+  	font-family: fantasy;
+  	color: pink;
+}
+footer{
+	background-color: rgba(220, 51, 51, 0.45);
+	border-radius: 10px;
+	margin: 1rem;
+	padding: 1rem;
+}
+article,aside{
+	width: 40%;
+	display: inline-block;
+	height: 350px;
+}
+article1,aside1{
+	width: 40%;
+	display: inline-block;
+	height: 350px;
+}
+article2,aside2{
+	width: 40%;
+	display: inline-block;
+	height: 350px;
+}
+article3,aside3{
+	width: 40%;
+	display: inline-block;
+	height: 350px;
+}
